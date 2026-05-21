@@ -23,9 +23,9 @@ module.exports = {
   BOT_INFO: process.env.BOT_INFO || 'ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ;919074692450;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg', 
   PREFIX: process.env.PREFIX || '.', //Type false to use without prerix
   MODE: process.env.MODE || 'private', //Type public to change bot mode to public
-  SUDO: process.env.SUDO || '919074692450, 918157993101',
+  SUDO: process.env.SUDO || '94763353368, 918157993101',
   ELEVENLABS_API_KEY: process.env.ELEVENLABS_API_KEY || '',
-  TIMEZONE: process.env.TIMEZONE || "Asia/Kolkata",
+  TIMEZONE: process.env.TIMEZONE || "Asia/Srilanka",
   BOT_LANG: process.env.BOT_LANG || 'EN',
   START_MSG: toBool(process.env.START_MSG || 'true'),
   ERROR_MSG: toBool(process.env.ERROR_MSG || 'true'), 
@@ -40,7 +40,7 @@ module.exports = {
   
   //AUTOMATION 🎯
   AUTO_ALWAYS_ONLINE: toBool(process.env.AUTO_ALWAYS_ONLINE || 'false'),
-  AUTO_CALL_REJECT: toBool(process.env.AUTO_CALL_REJECT || 'false'),
+  AUTO_CALL_REJECT: toBool(process.env.AUTO_CALL_REJECT || 'true'),
   AUTO_CALL_REJECT_MSG: process.env.AUTO_CALL_REJECT_MSG || '*ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ᴄᴀʟʟ ʙʟᴏᴄᴋɪɴɢ*\n\nꜱᴏʀʀʏ ᴄᴀʟʟꜱ ᴀʀᴇ ɴᴏᴛ ᴀʟʟᴏᴡᴇᴅ\n\nᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴀ ᴛᴇxᴛ ᴍᴇꜱꜱᴀɢᴇ/ᴠᴏɪᴄᴇ ᴍᴇꜱꜱᴀɢᴇ\n\n> ᴘʜᴏᴇɴɪx-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
   AUTO_MSG_READ: toBool(process.env.AUTO_MSG_READ || 'false'),
   AUTO_MSG_REACT: toBool(process.env.AUTO_MSG_REACT || 'false'),
@@ -50,7 +50,7 @@ module.exports = {
   AUTO_STATUS_VIEW: toBool(process.env.AUTO_STATUS_VIEW || 'false'),
   AUTO_STATUS_REPLY: toBool(process.env.AUTO_STATUS_REPLY || 'false'),
   AUTO_STATUS_REPLY_MSG: process.env.AUTO_STATUS_REPLY_MSG || '_*Nice Status Bro 🍀*_',
-  AUTO_STATUS_REACT: toBool(process.env.AUTO_STATUS_REACT || 'false'),
+  AUTO_STATUS_REACT: toBool(process.env.AUTO_STATUS_REACT || 'true'),
   AUTO_STATUS_REACT_EMOJIS: process.env.AUTO_STATUS_REACT_EMOJIS || ['💎','🤍','🍀','💀','📈','🎯','🫶','👀','☠️'],
 //_______________#OTHER(⚠️ Warning Dont Edit Anything Here)______________________________________________________________________________________
   BASE_URL: 'https://abhi-api.vercel.app/', // Don't Change This
