@@ -9,7 +9,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Phoenix~JungleJade",
+      "description": "Phoenix~ReactorShroud",
       "required": true
     },
 
@@ -56,7 +56,7 @@
     "BOT_INFO": {
       "description": "Rosi Bot",
       "required": false,
-      "value": "ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ;919074692450;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg"
+      "value": "▶𝐊𝐚𝐝𝐢𝐲𝐚 𝐁𝐨𝐭;𝐈𝐬𝐚𝐧𝐤𝐚;94765901096;https://files.catbox.moe/v79ep1.png"
     },
 
     "STICKER_DATA": {
