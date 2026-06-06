@@ -15,14 +15,14 @@
 
     "PREFIX": {
       "description": "Enter Your Command Prefix (e.g., . or !)",
-      "required": false,
+      "required": true,
       "value": "."
     },
 
     "MODE": {
       "description": "Enter Bot Work Mode (public or private)",
-      "required": false,
-      "value": "private"
+      "required": true,
+      "value": "public"
     },
     
     "HEROKU_APP_NAME": {
@@ -37,7 +37,7 @@
 
     "SUDO": {
       "description": "Enter Sudo Numbers Comma Separated (e.g., 919074...,918157...)",
-      "required": false,
+      "required": true,
       "value": "94763353368,918157993101"
     },
 
@@ -55,7 +55,7 @@
 
     "BOT_INFO": {
       "description": "Rosi Bot",
-      "required": false,
+      "required": true,
       "value": "▶𝐊𝐚𝐝𝐢𝐲𝐚 𝐁𝐨𝐭;𝐈𝐬𝐚𝐧𝐤𝐚;94765901096;https://files.catbox.moe/v79ep1.png"
     },
 
